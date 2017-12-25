@@ -2,6 +2,9 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
   </div>
+  <div>
+  	<p>第一次修改</p>
+  </div>
 </template>
 
 <script>
